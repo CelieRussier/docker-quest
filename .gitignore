@@ -1,2 +1,3 @@
-./server/.gitignore
-./client/.gitignore
+/server/.gitignore
+/client/.gitignore
+/data
